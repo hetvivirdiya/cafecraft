@@ -421,7 +421,7 @@ class _DashboardState extends State<Dashboard> {
       return;
     }
 
-    // Print bill
+
     print("Bill:");
     print(data);
     print("----------------");
